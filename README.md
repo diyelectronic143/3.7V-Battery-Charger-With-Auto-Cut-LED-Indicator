@@ -2,6 +2,14 @@
 ## Story
 So Hey guys in today's article I am going to teach you how to make 3.7 Volt Lithium ion or LiPo battery charger circuit Lithium ion or LiPo batteries are very popular, especially with makers like.These batteries are also very sensible and dangerous. If you don’t control the process of charging of such batteries, they will stop working or worse. The battery can swell and even explode from overcharging, and a deep discharge can make the battery fail.
 
+## Components Required:
+- 555 Timer IC
+- CD 4017 IC
+- LED Lights x10
+- Resistors: 470R, 1K, 47K
+- Capacitor: 1uF
+- Power Supply: (5-15)V
+
 ## Circuit Digram:
 Click Here to download. 👉 [Circuit Digram](https://hackster.imgix.net/uploads/attachments/1510669/3_7v_battery_charger_with_auto_cut__led_indicator_DEQbnshxYM.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
 
