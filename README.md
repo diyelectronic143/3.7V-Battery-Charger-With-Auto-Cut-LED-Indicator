@@ -29,5 +29,5 @@ I supply it with 4.2V from my power supply. I connect my multimeter at the outpu
 🔹Circuit Diagram -: [https://drive.google.com/file/Circuit](https://drive.google.com/file/d/1W5TdJed0QF0rdJ3WFawkfwLfGytJ-HLn/view)
 
 ## Hope the article helped you.
-Don't Forget To Watch This [Video](https://youtu.be/ey9M2IvoovA) 😉
+Don't Forget To Watch Making [Video](https://youtu.be/ey9M2IvoovA) 😉
 
